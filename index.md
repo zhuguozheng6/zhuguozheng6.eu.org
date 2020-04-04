@@ -27,7 +27,7 @@ Twitter:
 
 QQ支付:
 
-<img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/qqpay.jpg" alt="1" />
+<img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/qqpay.png" alt="1" />
 
 微信支付:
 
