@@ -1,16 +1,26 @@
 # 欢迎
 
 
-QQ:<img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/qq.jpg" alt="1" />
+QQ:
+
+<img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/qq.jpg" alt="1" />
 
 
-QQ空间: <a href="https://user.qzone.qq.com/1049467522">https://user.qzone.qq.com/1049467522</a>
+QQ空间:
 
-微信:<img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/wechat.jpg" alt="1" />
+<a href="https://user.qzone.qq.com/1049467522">https://user.qzone.qq.com/1049467522</a>
 
-Email: <a href="mailto:1049467522@qq.com">1049467522@qq.com</a>  <a href="mailto:zhuguozheng6@gmail.com">zhuguozheng6@gmail.com</a>
+微信:
 
-Twitter: <a href="https://twitter.com/zhuguozheng6">zhuguozheng6</a>
+<img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/wechat.jpg" alt="1" />
+
+Email: 
+
+<a href="mailto:1049467522@qq.com">1049467522@qq.com</a>  <a href="mailto:zhuguozheng6@gmail.com">zhuguozheng6@gmail.com</a>
+
+Twitter:
+
+<a href="https://twitter.com/zhuguozheng6">zhuguozheng6</a>
 
 
 ## 打赏
