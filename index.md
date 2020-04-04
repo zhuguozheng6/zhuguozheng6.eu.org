@@ -12,4 +12,4 @@ Email: <a href="mailto:1049467522@qq.com">1049467522@qq.com</a>  <a href="mailto
 
 Twitter: <a href="https://twitter.com/zhuguozheng6">zhuguozheng6</a>
   
-<img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/1.jpg" alt="1" /></p>
+<img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/1.jpg" alt="1" />
