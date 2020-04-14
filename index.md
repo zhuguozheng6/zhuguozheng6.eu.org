@@ -3,6 +3,8 @@
 
 QQ:
 
+<a href="tencent://message/?uin=1049467522">1049467522</a>
+
 <img src="https://raw.githubusercontent.com/1049467522/1049467522.github.io/master/qq.jpg" alt="1" />
 
 
