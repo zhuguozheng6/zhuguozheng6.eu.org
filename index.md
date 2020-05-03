@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="uMY34D3C4m70zMX2w1x9B5AV87mFUUjL4reK2rEWUKU" />
-
 # 欢迎
 
 
