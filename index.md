@@ -18,7 +18,15 @@ QQ空间:
 
 Email: 
 
-<a href="mailto:1049467522@qq.com">1049467522@qq.com</a>  <a href="mailto:zhuguozheng6@gmail.com">zhuguozheng6@gmail.com</a>
+<a href="mailto:1049467522@qq.com">1049467522@qq.com</a>  
+
+<a href="mailto:zhuguozheng6@gmail.com">zhuguozheng6@gmail.com</a>  
+
+<a href="mailto:zhuguozheng6@outlook.com">zhuguozheng6@outlook.com</a>  
+
+<a href="mailto:zhuguozheng6@hotmail.com">zhuguozheng6@hotmail.com</a>
+
+
 
 Telegram:
 
