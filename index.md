@@ -26,7 +26,7 @@ Email:
 
 <a href="mailto:zhuguozheng6@hotmail.com">zhuguozheng6@hotmail.com</a>
 
-<a href="mailto:zhuguozheng6@protomail.com">zhuguozheng6@protomail.com</a>
+<a href="mailto:zhuguozheng6@protonmail.com">zhuguozheng6@protonmail.com</a>
 
 <a href="mailto:zhuguozheng6@pm.me">zhuguozheng6@pm.me</a>
 
