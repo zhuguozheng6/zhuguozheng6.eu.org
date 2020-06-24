@@ -36,7 +36,7 @@ Email:
 
 Telegram:
 
-<a href="https://t.me/joinchat/IW_K2UU3RSzljP3KJ2naqA">https://t.me/joinchat/IW_K2UU3RSzljP3KJ2naqA</a>
+<a href="https://t.me/joinchat/IW_K2U9QgRVY7Le2VKdJtA">https://t.me/joinchat/IW_K2U9QgRVY7Le2VKdJtA</a>
 
 
 Twitter:
