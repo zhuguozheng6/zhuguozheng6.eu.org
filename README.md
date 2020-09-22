@@ -5,7 +5,7 @@ QQ:
 
 <a href="tencent://message/?uin=1049467522">1049467522</a>
 
-<img src="https://1049467522.github.io/qq.jpg" alt="1" />
+<img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/qq.jpg" alt="1" />
 
 
 QQ空间:
