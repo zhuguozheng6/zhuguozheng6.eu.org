@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f964984d06f6c9354b2f",
+    "revision": "2bd1fe349cfcef7cd201",
     "url": "css/app.084e4317.css"
   },
   {
-    "revision": "3a9e5bb8f7f27c25cb92",
-    "url": "css/chunk-vendors.d21c70ba.css"
+    "revision": "425a9ccb1a20fcd83d09",
+    "url": "css/chunk-vendors.e5dc15c6.css"
   },
   {
     "revision": "535877f50039c0cb49a6196a5b7517cd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/element-icons.732389de.ttf"
   },
   {
-    "revision": "5cdb9f31bfb3d0eb3d150013a4ab6fb1",
+    "revision": "ddfd239a7157aaf18b72caf347349462",
     "url": "index.html"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "ixarea-stats.js"
   },
   {
-    "revision": "cd918a04c2a1d73bbd624505d5271199",
-    "url": "js/0.24b17fed.worker.js"
+    "revision": "d61c239024e20616c64027f881bee67f",
+    "url": "js/0.34ae486e.worker.js"
   },
   {
-    "revision": "f964984d06f6c9354b2f",
-    "url": "js/app.a3195ea6.js"
+    "revision": "2bd1fe349cfcef7cd201",
+    "url": "js/app.a8c1864a.js"
   },
   {
-    "revision": "3a9e5bb8f7f27c25cb92",
-    "url": "js/chunk-vendors.d51496b3.js"
+    "revision": "425a9ccb1a20fcd83d09",
+    "url": "js/chunk-vendors.0d894496.js"
   },
   {
     "revision": "02995355b96ddf2519cd49f8aa73bb46",
